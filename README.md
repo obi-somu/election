@@ -10,5 +10,4 @@ _____________________________________________________________
   c) Metamask Wallet as a chrome or any browser extension.<br/>
 _____________________________________________________________
 
-### Demo video for starting this application ( Run "npm install" before following this video )
-[![Demo Video](https://j.gifs.com/yozovP.gif)](https://www.youtube.com/watch?v=TIowp9w1xPA)
+###  Run "npm install" : to install the necessary dependencies. 
